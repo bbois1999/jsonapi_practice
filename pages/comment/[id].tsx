@@ -1,7 +1,3 @@
-import { FC, ReactNode, useEffect, useState } from "react"
-import axios from 'axios'
-import { Box, styled } from "@mui/material"
-import TablePostsTemplate from "../src/table";
 import { useRouter } from "next/router";
 
 
